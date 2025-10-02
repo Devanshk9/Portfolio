@@ -22,7 +22,7 @@
         </p>
         <p class="md:text-xl text-lg leading-relaxed opacity-90">
           Outside of code, you’ll often find me with a piano, guitar, or
-          notebook creating stories.
+          notebook — creating stories or music
         </p>
         <a href="#skills">
     <i class="fa-solid fa-arrow-down mt-10 hover:text-black cursor-pointer"></i>
