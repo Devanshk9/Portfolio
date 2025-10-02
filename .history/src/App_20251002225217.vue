@@ -32,11 +32,10 @@ import Contact from './components/Contact.vue'
     <section id="projects" class="relative z-5 section-offset">
       <Projects />
     </section>
-    <section id="contact" class="relative z-5 flex flex-col items-centersection-offset">
+    <section id="contact" class="relative z-5 section-offset">
       <Contact />
-      <span class="relative right-0 mb-10 z-5 section-offset text-center mb-2">&copy; 2025 Devansh Khetan</span>
     </section>
-    
+    <span class="relative right-0 z-5 section-offset text-center mb-2">&copy; 2025 Devansh Khetan</span>
   </div>
   
 </template>

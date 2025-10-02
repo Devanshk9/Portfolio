@@ -70,10 +70,10 @@ const rails = [
           <!-- escape <= to avoid Vue parsing issues -->
           {{ rail.text.replaceAll('≤','\u2264') }}
         </p>
-        <p class="px-8 md:text-2xl text-xl" :class="rail.cls" aria-hidden="true">
+        <p class="px-8 md:text-2xl" :class="rail.cls" aria-hidden="true">
           {{ rail.text.replaceAll('≤','\u2264') }}
         </p>
-        <p class="px-8 md:text-2xl text-xl" :class="rail.cls" aria-hidden="true">
+        <p class="px-8 md:text-2xl" :class="rail.cls" aria-hidden="true">
           {{ rail.text.replaceAll('≤','\u2264') }}
         </p>
         
