@@ -20,7 +20,7 @@
           </button>
 
           <button
-            class="flex flex-col items-center justify-center gap-1 px-3 py-2 rounded-md bg-white text-black shadow hover:bg-gray-100 transition"
+            class="px-3 py-2 rounded-md bg-white text-black shadow hover:bg-gray-100 transition"
           >
             <i class="devicon-c-original text-2xl"></i>
             <span class="text-sm ">C</span>
@@ -98,7 +98,7 @@
         </div>
 
         <!-- Description -->
-        <p class="text-m leading-relaxed opacity-90 mt-8">
+        <p class="text-lg  leading-relaxed opacity-90 mt-8">
           Beyond web technologies, I actively work on algorithmic problem-solving,
           data structures, and optimization techniques, which sharpen my analytical
           approach. I also explore emerging areas like AI/ML, IoT, and cloud

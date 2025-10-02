@@ -66,21 +66,21 @@ const rails = [
         :style="{ '--dur': rail.dur } "
       >
         <!-- duplicate content 3x for seamless loop; second/third hidden from a11y -->
-        <p class="px-8 text-2xl" :class="rail.cls">
+        <p class="px-8 text-xl" :class="rail.cls">
           <!-- escape <= to avoid Vue parsing issues -->
           {{ rail.text.replaceAll('≤','\u2264') }}
         </p>
-        <p class="px-8 text-2xl" :class="rail.cls" aria-hidden="true">
+        <p class="px-8 text-xl" :class="rail.cls" aria-hidden="true">
           {{ rail.text.replaceAll('≤','\u2264') }}
         </p>
-        <p class="px-8 text-2xl" :class="rail.cls" aria-hidden="true">
+        <p class="px-8 text-xl" :class="rail.cls" aria-hidden="true">
           {{ rail.text.replaceAll('≤','\u2264') }}
         </p>
       </div>
     </div>
 
     <!-- Center headline (optional) -->
-    <h1 class=" md:mt-[100px] mt-[40px] text-4xl font-bold ">Hola, I am Devansh</h1>
+    <h1 class=" mt-[100px] text-7xl font-bold ">Hola, I am Devansh</h1>
     <a href="#about">
     <i class="fa-solid fa-arrow-down hover:text-black cursor-pointer"></i>
     </a>

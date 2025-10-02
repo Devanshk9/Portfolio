@@ -35,7 +35,7 @@
             <i class="fa-solid fa-arrow-up-right-from-square"></i>
             Stock-Predictor
           </p>
-          <p class="text-base mt-3 leading-relaxed opacity-90">
+          <p class="text-lg mt-3 leading-relaxed opacity-90">
           Predicts stock prices using historical data and the Prophet forecasting model. Users can select a stock from a pre-defined list, adjust the prediction period, and visualize both historical data and forecasted trends.
         </p>
         </a>

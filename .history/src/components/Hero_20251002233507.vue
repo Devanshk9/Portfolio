@@ -80,7 +80,7 @@ const rails = [
     </div>
 
     <!-- Center headline (optional) -->
-    <h1 class=" md:mt-[100px] mt-[40px] text-4xl font-bold ">Hola, I am Devansh</h1>
+    <h1 class=" mt-[100px] text-4xl font-bold ">Hola, I am Devansh</h1>
     <a href="#about">
     <i class="fa-solid fa-arrow-down hover:text-black cursor-pointer"></i>
     </a>

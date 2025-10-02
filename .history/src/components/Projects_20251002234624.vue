@@ -13,7 +13,7 @@
             <i class="fa-solid fa-arrow-up-right-from-square"></i>
             NoteGo
           </p>
-          <p class="text-base mt-3 leading-relaxed opacity-90">
+          <p class="text-lg mt-3 leading-relaxed opacity-90">
           NoteGo is a student-focused platform that centralizes quality notes, past-year papers, and curated tutorials to simplify exam preparation for BMSCE students.
         </p>
         </a>
@@ -24,7 +24,7 @@
             <i class="fa-solid fa-arrow-up-right-from-square"></i>
             Chef-Juggad
           </p>
-          <p class="text-base mt-3 leading-relaxed opacity-90">
+          <p class="text-lg mt-3 leading-relaxed opacity-90">
           Chef Jugaad is an AI-powered recipe platform that instantly generates creative, easy-to-make dishes based on the ingredients you already have.
           </p>
         </a>
@@ -35,7 +35,7 @@
             <i class="fa-solid fa-arrow-up-right-from-square"></i>
             Stock-Predictor
           </p>
-          <p class="text-base mt-3 leading-relaxed opacity-90">
+          <p class="text-lg mt-3 leading-relaxed opacity-90">
           Predicts stock prices using historical data and the Prophet forecasting model. Users can select a stock from a pre-defined list, adjust the prediction period, and visualize both historical data and forecasted trends.
         </p>
         </a>

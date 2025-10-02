@@ -16,89 +16,89 @@
             class="flex flex-col items-center justify-center gap-1 px-3 py-2 rounded-md bg-white text-black shadow hover:bg-gray-100 transition"
           >
             <i class="devicon-cplusplus-plain text-2xl"></i>
-            <span class="text-sm ">C++</span>
+            <span class="text-sm font-medium">C++</span>
           </button>
 
           <button
             class="flex flex-col items-center justify-center gap-1 px-3 py-2 rounded-md bg-white text-black shadow hover:bg-gray-100 transition"
           >
             <i class="devicon-c-original text-2xl"></i>
-            <span class="text-sm ">C</span>
+            <span class="text-sm font-medium">C</span>
           </button>
 
           <button
             class="flex flex-col items-center justify-center gap-1 px-3 py-2 rounded-md bg-white text-black shadow hover:bg-gray-100 transition"
           >
             <i class="devicon-javascript-plain colored text-2xl"></i>
-            <span class="text-sm">JavaScript</span>
+            <span class="text-sm font-medium">JavaScript</span>
           </button>
 
           <button
             class="flex flex-col items-center justify-center gap-1 px-3 py-2 rounded-md bg-white text-black shadow hover:bg-gray-100 transition"
           >
             <i class="devicon-react-original text-2xl"></i>
-            <span class="text-sm ">React</span>
+            <span class="text-sm font-medium">React</span>
           </button>
 
           <button
             class="flex flex-col items-center justify-center gap-1 px-3 py-2 rounded-md bg-white text-black shadow hover:bg-gray-100 transition"
           >
             <i class="devicon-vuejs-plain text-2xl"></i>
-            <span class="text-sm ">Vue</span>
+            <span class="text-sm font-medium">Vue</span>
           </button>
 
           <button
             class="flex flex-col items-center justify-center gap-1 px-3 py-2 rounded-md bg-white text-black shadow hover:bg-gray-100 transition"
           >
             <i class="devicon-tailwindcss-original text-2xl"></i>
-            <span class="text-sm ">Tailwind</span>
+            <span class="text-sm font-medium">Tailwind</span>
           </button>
 
           <button
             class="flex flex-col items-center justify-center gap-1 px-3 py-2 rounded-md bg-white text-black shadow hover:bg-gray-100 transition"
           >
             <i class="devicon-nodejs-plain text-2xl"></i>
-            <span class="text-sm ">Node.js</span>
+            <span class="text-sm font-medium">Node.js</span>
           </button>
 
           <button
             class="flex flex-col items-center justify-center gap-1 px-3 py-2 rounded-md bg-white text-black shadow hover:bg-gray-100 transition"
           >
             <i class="devicon-express-original text-2xl"></i>
-            <span class="text-sm ">Express</span>
+            <span class="text-sm font-medium">Express</span>
           </button>
 
           <button
             class="flex flex-col items-center justify-center gap-1 px-3 py-2 rounded-md bg-white text-black shadow hover:bg-gray-100 transition"
           >
             <i class="devicon-git-plain text-2xl"></i>
-            <span class="text-sm ">Git</span>
+            <span class="text-sm font-medium">Git</span>
           </button>
 
           <button
             class="flex flex-col items-center justify-center gap-1 px-3 py-2 rounded-md bg-white text-black shadow hover:bg-gray-100 transition"
           >
             <i class="devicon-mysql-plain text-2xl"></i>
-            <span class="text-sm ">SQL</span>
+            <span class="text-sm font-medium">SQL</span>
           </button>
 
           <button
             class="flex flex-col items-center justify-center gap-1 px-3 py-2 rounded-md bg-white text-black shadow hover:bg-gray-100 transition"
           >
             <i class="devicon-vercel-original text-2xl"></i>
-            <span class="text-sm ">Vercel</span>
+            <span class="text-sm font-medium">Vercel</span>
           </button>
 
           <button
             class="flex flex-col items-center justify-center gap-1 px-3 py-2 rounded-md bg-white text-black shadow hover:bg-gray-100 transition"
           >
             <i class="devicon-figma-plain text-2xl"></i>
-            <span class="text-sm ">Figma</span>
+            <span class="text-sm font-medium">Figma</span>
           </button>
         </div>
 
         <!-- Description -->
-        <p class="text-m leading-relaxed opacity-90 mt-8">
+        <p class="text-lg font-medium leading-relaxed opacity-90 mt-8">
           Beyond web technologies, I actively work on algorithmic problem-solving,
           data structures, and optimization techniques, which sharpen my analytical
           approach. I also explore emerging areas like AI/ML, IoT, and cloud

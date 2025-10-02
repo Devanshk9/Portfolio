@@ -7,5 +7,7 @@ import App from './App.vue'
 let app = createApp(App)
 
 
+app.use(resourcesPlugin)
+
 
 app.mount('#app')
